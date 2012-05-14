@@ -57,7 +57,7 @@
 }
 
 #dokuwiki__header div.breadcrumbs {
-    margin-bottom: .3em;
+    margin-bottom: 2.3em;
 }
 #dokuwiki__header div.breadcrumbs a {
     color: __existing__;
